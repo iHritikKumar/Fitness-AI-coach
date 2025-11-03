@@ -1,8 +1,6 @@
-
-numpy
 streamlit
-playsound
-SpeechRecognition
-gtts
-opencv-python
+numpy
+opencv-python-headless
 mediapipe
+gtts
+pydub
